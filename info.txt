@@ -1,0 +1,10 @@
+https://medium.com/@spyna/how-really-protect-your-rest-api-after-social-login-with-node-js-3617c336ebed
+
+https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/
+
+https://github.com/Spyna/protect-rest-api-after-social-login?source=post_page---------------------------
+
+https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
+https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
+
+https://medium.com/better-humans/10-ways-to-make-bold-decisions-invest-in-yourself-and-live-on-your-terms-f79d527adcd2
